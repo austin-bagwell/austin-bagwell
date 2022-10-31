@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @austin-bagwell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... JavaScript, Node, HTML, CSS, how to even program.
+- 💞️ I’m looking to collaborate on ... literally anything that you want me to break. Seriously though, give me your toddler-level JavaScript/Node tidbits and I'll squish together some hacky code to try and make it do a trick or something.
+
 
 <!---
 austin-bagwell/austin-bagwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
