@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austin-bagwell
 - 🌱 I’m currently learning ... JavaScript, Node, HTML, CSS, how to even program.
-- 💞️ I’m looking to collaborate on ... literally anything that you want me to break. Seriously though, give me your toddler-level JavaScript/Node tidbits and I'll squish together some hacky code to try and make it do a trick or something.
+- 💞️ I’m looking to collaborate on ... literally anything that you want me to ~~break~~ fix. Seriously though, give me your toddler-level JavaScript/Node tidbits and I'll squish together some hacky code to try and make it do a trick or something.
 
 
 <!---
