@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @austin-bagwell
-- 🌱 I’m currently learning ... JavaScript, Node, HTML, CSS, how do make computer work?
-- 💞️ I’m looking to collaborate on ... literally anything that you want me to ~~break~~ fix. Seriously though, give me your toddler-level JavaScript/Node tidbits and I'll squish together some hacky code to try and make it do a trick or something.
+Hi, I’m Austin! I'm a self-taught fullstack web developer living in North Carolina.
+
+I’m currently learning React, TypeScript, Express, and Node.js. I'd love to collaborate on open source projects!
 
 
 <!---
