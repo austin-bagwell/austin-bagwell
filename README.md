@@ -1,4 +1,4 @@
-Hi, I’m Austin! I'm a self-taught (read: still learning!) web developer living in North Carolina.
+Hi, I’m Austin! I'm a self-taught (read: actively learning!) web developer living in North Carolina.
 
 I’m currently learning React, TypeScript, Express, and Node.js. I'm comfortable with the web classics - JavaScript, HTML, and CSS. 
 
