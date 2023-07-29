@@ -1,8 +1,28 @@
-Hi, I’m Austin! I'm a self-taught web developer living in North Carolina.
+# Hi, I’m Austin!
 
-I’m currently learning React, TypeScript, Express, and Node.js. I'm comfortable with the classic web stack - JavaScript, HTML, and CSS. 
+Things I like:
+- writing workflow automations
+- open source contribution
+- civic hacking
+- working with REST APIs
+- reading books (checkout The Overstory by Richard Powers)
 
-Most of my personal projects have focused on the frontend, but I also enjoy setting up Express servers with basic routing. Backend development is where I think the real magic happens!
+## Languages
+- JavaScript
+- TypeScript
+
+## Front End
+- React
+- Tailwind
+- HTML/CSS
+
+## Back End
+- Node.js
+- Express
+
+## Libraries
+- Google Apps Script
+
 
 
 <!---
