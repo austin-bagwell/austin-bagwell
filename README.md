@@ -2,8 +2,8 @@
 
 Things I like:
 - writing workflow automations
-- open source contribution
-- civic hacking ([Code with Durham](https://www.codefordurham.com/))
+- open source contribution / civic hacking
+  -([Code with Durham](https://www.codefordurham.com/))
 - working with REST APIs
 - reading books (currently: The Overstory by Richard Powers)
 
