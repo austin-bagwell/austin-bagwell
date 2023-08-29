@@ -5,7 +5,6 @@ Things I like:
 - open source contribution / civic hacking
   - [Code with Durham](https://www.codefordurham.com/)
 - working with REST APIs
-- reading books (currently: The Overstory by Richard Powers)
 
 ## Languages
 - JavaScript
